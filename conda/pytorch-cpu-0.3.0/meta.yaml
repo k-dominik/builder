@@ -8,6 +8,7 @@ source:
 
 requirements:
   build:
+    - gcc 4.8.5 # [linux]
     - python
     - numpy 1.11.*
     - setuptools
